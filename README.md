@@ -15,3 +15,5 @@
 * **Local Administrator** account: The administrator who is installing Azure AD Connect and who has local administrator permissions on the machine.
 * **Azure AD Global Administrator** account: used to create the Azure AD Connector account and configure Azure AD. You can view global administrator accounts in the Azure portal. **Create an Azure Global or Administrative account**: See this guide on how to add a user account and set permissions in Azure.
 2. **Microsoft Azure Account (Tenant):** See [this guide](https://learn.microsoft.com/en-us/entra/fundamentals/create-new-tenant) for how to set up an Azure AD Tenant. Also when the tenant is up and running, ensure you  add a custom domain in the Azure Active directory.
+3. **Download the Azure AD Connect:** After completing the above steps, we will have to download and install Azure AD Connect to synchronize your on-premises to Azure Active Directory as well.
+      - Alternatively, you can navigate to Azure AD, select Azure AD Connect as shown below, and click on download Azure AD Connect.
