@@ -63,5 +63,11 @@ In the all users list, you will see the accounts from my on premise AD are added
 <img src="https://github.com/StarksRepo/AD-and-Azure-AD-Synchronization-Project/assets/155681117/20dad329-7483-408c-b269-ef1c9d7ed0f6)" width=300>
 <img src="https://github.com/StarksRepo/AD-and-Azure-AD-Synchronization-Project/assets/155681117/260c89e1-85e4-45e5-8040-fbf9b569c5a1)" width=300>
 
+I decided to run a script in Powershell to have Azure AD sync with Active Directory every 30 mintues.
 
+<img src="https://github.com/StarksRepo/AD-and-Azure-AD-Synchronization-Project/assets/155681117/af5fd022-44d7-44dd-b44d-0a3404d1bda2)" width=500>
+
+After the script completed, I ran another one to confirm that it worked. This script will show that it is in fact syncing every 30 mins, see below..
+
+<img src="https://github.com/StarksRepo/AD-and-Azure-AD-Synchronization-Project/assets/155681117/229a73da-f144-4a8d-a1de-da5aa9f18390)" width=500>
 
