@@ -23,3 +23,10 @@
 
 As you can she I have downloaded the Azure AD Connect to my on premise Active Directory as shown below.
 <img src="https://github.com/StarksRepo/AD-and-Azure-AD-Synchronization-Project/assets/155681117/368ba282-8ea4-4a7f-9d50-f2c0de6c81ec)" width=500>
+
+To start the installion process,
+* Launch the Azure AD Connect installation
+* Click on **“I agree with the License agreements and privacy rules”** 
+* Click on **“Continue”** as shown below.
+
+<img src="https://github.com/StarksRepo/AD-and-Azure-AD-Synchronization-Project/assets/155681117/cf87e47e-ba5d-4b0f-b192-3e619cdfd321)" width=500>
