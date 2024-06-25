@@ -30,3 +30,7 @@ To start the installion process,
 * Click on **“Continue”** as shown below.
 
 <img src="https://github.com/StarksRepo/AD-and-Azure-AD-Synchronization-Project/assets/155681117/cf87e47e-ba5d-4b0f-b192-3e619cdfd321)" width=500>
+
+In the next slide, choose whether you would go with an express installation or a customised installation. 
+
+I will be using express settings since we are only added 10 or so users and enabling password hash.
