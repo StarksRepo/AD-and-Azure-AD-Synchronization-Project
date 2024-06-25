@@ -42,6 +42,7 @@ Now you will be asked to enter that Gloab Administrator credentials you made ear
 <img src="https://github.com/StarksRepo/AD-and-Azure-AD-Synchronization-Project/assets/155681117/ebe7c89e-9684-4efb-86ea-a3d4ca764b29)" width=500>
 
 To connect to Active Directory Domain Services (Active Directory), Azure AD Connect needs the forest name and credentials of an account that has sufficient permissions
+Using an existing AD account that Azure AD Connect can use to connect to the Active Directory forest during directory synchronization.
 I will be using an existing account I have in AD which is the admin account, pictured below.
 
 <img src="https://github.com/StarksRepo/AD-and-Azure-AD-Synchronization-Project/assets/155681117/04cdb4ad-d7b8-4bd5-9c56-e57b826577f4)" width=500>
