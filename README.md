@@ -1,0 +1,2 @@
+# AD-and-Azure-AD-Synchronization-Project
+This Hybrid Identity Integration Project is aimed to bridge the gap between our on-premises Active Directory (AD) and Azure Active Directory (Azure AD), creating a unified and seamless identity management system. This initiative was crucial for enhancing security, streamlining user access, and supporting the organization's transition to a hybrid cloud environment.
