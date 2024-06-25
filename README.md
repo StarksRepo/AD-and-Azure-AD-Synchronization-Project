@@ -20,5 +20,5 @@
 <img src="https://github.com/StarksRepo/AD-and-Azure-AD-Synchronization-Project/assets/155681117/8106dc0b-514c-4a65-92cd-608c081f845f)" width=500>
 
 **Note: Azure AD Connect can be installed on any server in your on-premise environment. But in my lab, I will be installing it on my Domain Controller.**
-* As you can she I have downloaded the Azure AD Connect to my on premise Active Directory as shown below.
+As you can she I have downloaded the Azure AD Connect to my on premise Active Directory as shown below.
 <img src="https://github.com/StarksRepo/AD-and-Azure-AD-Synchronization-Project/assets/155681117/368ba282-8ea4-4a7f-9d50-f2c0de6c81ec)" width=500>
