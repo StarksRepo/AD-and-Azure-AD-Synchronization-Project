@@ -71,3 +71,5 @@ After the script completed, I ran another one to confirm that it worked. This sc
 
 <img src="https://github.com/StarksRepo/AD-and-Azure-AD-Synchronization-Project/assets/155681117/229a73da-f144-4a8d-a1de-da5aa9f18390)" width=500>
 
+# Conclusion
+In the end we have synced our on preme AD with Azure AD / Entra ID. They will sync together every 30 mins, so if another user is created on the on preme AD after 30 mins they will be added to Azure and from there they will have access to even more company resources if needed.
