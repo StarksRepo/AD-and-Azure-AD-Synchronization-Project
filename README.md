@@ -34,3 +34,14 @@ To start the installion process,
 In the next slide, choose whether you would go with an express installation or a customised installation. 
 
 I will be using express settings since we are only added 10 or so users and enabling password hash.
+
+Now you will be asked to enter that Gloab Administrator credentials you made earlier to verify the domain.
+
+<img src="https://github.com/StarksRepo/AD-and-Azure-AD-Synchronization-Project/assets/155681117/ebe7c89e-9684-4efb-86ea-a3d4ca764b29)" width=500>
+
+
+
+
+
+
+
