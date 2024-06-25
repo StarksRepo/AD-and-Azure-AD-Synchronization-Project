@@ -51,6 +51,17 @@ After following those steps for configuration you will then install it and see t
 
 <img src="https://github.com/StarksRepo/AD-and-Azure-AD-Synchronization-Project/assets/155681117/29df82f6-36f1-4adb-a503-b8b1b017cb2f)" width=500>
 
+After the installation has been completed, sign out and sign in again before you use the Synchronization Service Manager or Synchronization Rule Editor.
+
+To confirm the synchronization between your on-premises AD with Azure AD, log on to the Azure portal
+* Navigate to Active Directory
+* Click on Azure Active Directory
+* Click on All Users
+
+In the all users list, you will see the accounts from my on premise AD are added. Therefore, our on-premise AD is fully synchronized with Azure AD. Below I will show you;
+
+<img src="https://github.com/StarksRepo/AD-and-Azure-AD-Synchronization-Project/assets/155681117/20dad329-7483-408c-b269-ef1c9d7ed0f6)" width=300>
+<img src="https://github.com/StarksRepo/AD-and-Azure-AD-Synchronization-Project/assets/155681117/260c89e1-85e4-45e5-8040-fbf9b569c5a1)" width=300>
 
 
 
