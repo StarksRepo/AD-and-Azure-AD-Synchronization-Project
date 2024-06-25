@@ -17,3 +17,6 @@
 2. **Microsoft Azure Account (Tenant):** See [this guide](https://learn.microsoft.com/en-us/entra/fundamentals/create-new-tenant) for how to set up an Azure AD Tenant. Also when the tenant is up and running, ensure you  add a custom domain in the Azure Active directory.
 3. **Download the Azure AD Connect:** After completing the above steps, we will have to download and install Azure AD Connect to synchronize your on-premises to Azure Active Directory as well.
       - Alternatively, you can navigate to Azure AD, select Azure AD Connect as shown below, and click on download Azure AD Connect.
+<img src="https://github.com/StarksRepo/AD-and-Azure-AD-Synchronization-Project/assets/155681117/8106dc0b-514c-4a65-92cd-608c081f845f)" width=500>
+
+**Note: Azure AD Connect can be installed on any server in your on-premise environment. But in my lab, I will be installing it on my Domain Controller.**
