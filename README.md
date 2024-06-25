@@ -47,7 +47,7 @@ I will be using an existing account I have in AD which is the admin account, pic
 
 <img src="https://github.com/StarksRepo/AD-and-Azure-AD-Synchronization-Project/assets/155681117/04cdb4ad-d7b8-4bd5-9c56-e57b826577f4)" width=500>
 
-After following those steps for configuration you will then install it and see it has completed.
+After following those steps for configuration you will then install it and see the configuration is now complete and you can verify in your azure AD that the user accounts have been created.
 
 <img src="https://github.com/StarksRepo/AD-and-Azure-AD-Synchronization-Project/assets/155681117/29df82f6-36f1-4adb-a503-b8b1b017cb2f)" width=500>
 
